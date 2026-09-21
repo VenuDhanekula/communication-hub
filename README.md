@@ -367,13 +367,6 @@ Open a Pull Request describing:
 - Screenshots or recordings for UI changes
 - Any migration or compatibility considerations
 
-## 📄 License
-
-Add the license that matches your intended distribution model before publishing the repository.
-
-Do not claim a license unless the repository actually includes that license file.
-
----
 
 ## 👤 Author
 
